@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'vì anh dth và cute :3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Anh có thể lôi thôi cả tháng :v Để cùng nàng lang thang cả tối :3',
+    messDesc: 'Anh có thể lôi thôi cả tháng :v Để cùng nàng lang thang cả tối :3.',
     btnAccept: 'hí hí :3 <3',
     messLink: 'https://www.facebook.com/gaucute147/'
 }
